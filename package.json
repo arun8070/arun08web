@@ -1,0 +1,30 @@
+{
+  "name": "arun08web",
+  "version": "1.0.0",
+  "description": "Arunoday Pandey's portfolio.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun8070/arun08web.git"
+  },
+  "keywords": [
+    "Android",
+    "App",
+    "Developer",
+    "Web",
+    "software"
+  ],
+  "author": "Arunoday Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun8070/arun08web/issues"
+  },
+  "homepage": "https://github.com/arun8070/arun08web#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
